@@ -25,5 +25,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Tutorial for React To run the project:",
+  "main": "index.js",
+  "devDependencies": {
+    "netlify-cli": "^12.2.6"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.17.0"
   }
 }
